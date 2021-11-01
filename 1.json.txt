@@ -1,0 +1,7 @@
+{
+  "name": "Harald Wirsen",
+  "description": "Alter DayZ Zocker",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/50.png"
+}
+
+https://drive.google.com/file/d/11BxmcKAZkBzBgKJxdkVpgwEkTEZSv4Av/view?usp=sharing
